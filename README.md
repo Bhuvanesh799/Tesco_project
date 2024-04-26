@@ -1,3 +1,3 @@
 # Tesco_project
 e-commerce project.
-adding cart component
+adding cart with new project
